@@ -1,0 +1,1 @@
+This is a project making a recipe website soley using html5. This will serve as a foundation for creating websites.
